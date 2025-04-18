@@ -1,7 +1,7 @@
 # Forest Fire Prediction
 
 A Machine Learning web application for predicting forest fires and the Fire Weather Index (FWI) based on meteorological data.  
-Built with Python, Flask and deployed on Heroku.
+Built with Python, Flask .
 
 
 
